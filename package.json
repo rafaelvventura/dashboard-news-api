@@ -1,0 +1,6 @@
+{
+  "name": "dashboard-news-api",
+  "version": "1.0.0",
+  "description": "NewsAPI proxy for dashboard",
+  "private": true
+}
