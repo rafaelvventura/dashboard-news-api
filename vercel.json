@@ -1,0 +1,7 @@
+{
+  "env": {
+    "NEWSAPI_KEY": "@newsapi_key"
+  },
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "."
+}
